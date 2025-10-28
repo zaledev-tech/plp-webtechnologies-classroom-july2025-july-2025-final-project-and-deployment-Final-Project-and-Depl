@@ -70,7 +70,7 @@ Comprehensive **client-side form validation** with:
 
 1. Clone this repository:
    ```bash
-   git clone
+   git clone https://github.com/zaledev-tech/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
   ---
   ## Live Demo site
 
