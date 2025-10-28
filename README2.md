@@ -74,4 +74,4 @@ Comprehensive **client-side form validation** with:
   ---
   ## Live Demo site
 
-  
+  https://zaledev-tech.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
